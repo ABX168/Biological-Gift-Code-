@@ -6,3 +6,5 @@ Birthday gift for girlfriend: An HTML file that plays a blessing video when open
 <img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/9e9f19fe-e326-4a47-9d9f-639dc5c38fcd" />
 <img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/67c68c48-aa08-4920-8d97-ed8123c294cd" />
 
+【下载方式如下】
+<img width="1788" height="731" alt="image" src="https://github.com/user-attachments/assets/281fab2c-a930-4475-99ea-b0161ad08597" />
